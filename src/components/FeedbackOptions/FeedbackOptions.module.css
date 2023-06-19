@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    gap: 7px;
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
